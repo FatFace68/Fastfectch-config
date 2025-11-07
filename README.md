@@ -1,0 +1,2 @@
+# Fastfectch-config
+Fastfecth config
